@@ -8,7 +8,7 @@
 
 namespace dotcra\dot;
 
-class Cat{
+class Dot{
 	private $a;
 	private $b;
 	private $c;
@@ -19,6 +19,6 @@ class Cat{
 	}
 
 	function say(){
-		echo "haha, you suck";
+		echo "haha, you suck\n";
 	}
 }
