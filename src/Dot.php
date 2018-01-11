@@ -19,6 +19,6 @@ class Dot{
 	}
 
 	function say(){
-		echo "haha, you suck\n";
+		echo "hi!\n";
 	}
 }
