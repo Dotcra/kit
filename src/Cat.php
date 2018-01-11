@@ -6,6 +6,8 @@
  * @todo
  */
 
+namespace dotcra\dot;
+
 class Cat{
 	private $a;
 	private $b;
@@ -20,7 +22,3 @@ class Cat{
 		echo "haha, you suck";
 	}
 }
-
-#new pus();
-#pus::f();
-
