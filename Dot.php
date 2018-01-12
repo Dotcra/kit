@@ -6,9 +6,9 @@
  * @todo
  */
 
-namespace dotcra\dot;
+namespace Dotcra\Misc;
 
-class Dot{
+class Cat{
 	private $a;
 	private $b;
 	private $c;
