@@ -1,5 +1,5 @@
 {
-    "name": "dotcra/misc",
+    "name": "dotcra/kit",
     "description": "db, page",
     "keywords": [],
     "authors": [
@@ -10,12 +10,12 @@
 			"role": "Developer"
 		}
 	],
-    "homepage": "https://github.com/dotcra/dot",
+    "homepage": "https://github.com/dotcra/kit",
 	"license": "GPL-3.0",
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
     "autoload": {
-        "psr-4": {"Dotcra\\Misc\\": ""}
+        "psr-4": {"Dotcra\\Kit\\": ""}
 	}
 }
