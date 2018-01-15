@@ -9,8 +9,8 @@
 class Db{
 	private $host="localhost";
 	private $user="root";
-	private $pass="dot";
-	private $db="fgw";
+	private $pass="root";
+	private $db="test";
 	private $mysqli;
 
 	function __construct(){
